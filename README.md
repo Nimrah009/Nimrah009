@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimrah009&label=Profile%20views&color=0e75b6&style=flat" alt="nimrah009" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimrah009" alt="nimrah009" /></a> </p>
-
 - 🔭 I’m currently working on [StudentPortal](https://github.com/Nimrah009/StudentPortal)
 
 - 🌱 I’m currently learning **ASP .Net core, EF Core, LINQ**
